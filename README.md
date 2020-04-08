@@ -1,2 +1,2 @@
 # TITANIC_DATASET
-Machine Learning Analysis son the Titanic Dataset
+Machine Learning Analysis on the Titanic Dataset
